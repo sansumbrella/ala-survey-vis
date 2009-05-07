@@ -1,0 +1,52 @@
+0: What is your age in years?
+1: What is your gender?
+2: With which of these groups do you most identify?
+3: In which global region are you located?
+4: In which country are you located?
+5: Region
+6: MSA
+7: What is the highest level of education you have completed?
+8: How much have your academic studies helped you in your work as a web designer/developer?
+9: How do you stay current with your craft?
+10: The next set of questions are different depending on whether you work primarily as an employee or an independent freelance contractor. Which is most true for you?
+11: Where do you do your work?
+12: Which of the following best describes your employment situation?
+13: Which of the following best describes your employment situation?
+14: What is your job title?
+15: If you indicated "Other," please list your job title here.
+16: Regardless of your job requirements, in which of these areas are you competent?
+17: Regardless of how competent you believe yourself to be, in which of these areas does your employer or client(s) expect you to be proficient?
+18: How many people does your company or organization employ?
+19: How many years have you been working as a web professional?
+20: What kind of work did you do before getting involved in the web?
+21: How many years have you been at your present job?
+22: How many years have you been working independently?
+23: On average, how many hours per week do you work?
+24: How much of your work is web-related?
+25: What was your gross (pre-tax) income in 2007? Include bonuses and freelance income. Answer in U.S. dollars.
+26: How big was your last pay raise?
+27: How long ago was your last pay raise?
+28: Your personal salary aside, how's business?
+29: How do you price your work?
+30: If you have an hourly billing rate, what is it? If it varies, pick the most commonly-charged rate or give us an average.
+31: How have your rates/fees changed in the past year?
+32: Regardless of the rates you charge, how has your income changed from last year to this year?
+33: Aside from specific questions of income, how's business?
+34: With which of the following statements do you most identify?
+35: Let's talk perks. Get any?
+36: How many personal/vacation days do you get per year? (These are days that you take at your discretion.)
+37: How many paid/banking holidays do you get per year? (These are days such as Christmas, Independence Day, and so forth.)
+38: How do prospective clients find you?
+39: Which of the following describes your health care situation?
+40: Has your geographical location slowed the progress of your career, or made earning a living more difficult than it should be?
+41: Has employer or client prejudice about your age slowed the progress of your career, or made earning a living more difficult than it should be?
+42: Has employer or client prejudice about your gender slowed the progress of your career, or made earning a living more difficult than it should be?
+43: Has employer or client prejudice about your race, ethnicity, or national origin slowed the progress of your career, or made earning a living more difficult than it should be?
+44: Has employer or client prejudice about an illness or disability slowed the progress of your career, or made earning a living more difficult than it should be?
+45: How long have you had a personal blog/website? If you publish more than one, choose the one that has been online the longest. If you don't publish one, choose "Not applicable."
+46: Do you find web design to be an exciting profession?
+47: How satisfied are you with your current work situation?
+48: What is your next career move?
+49: Datetime
+50: null
+51: null
